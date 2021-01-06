@@ -99,13 +99,13 @@ section{
     color: aliceblue;
     font-size: 30px;
     font-weight: bolder;
-    position: relative; top:175px;
+    position: relative; top:160px;
     
 }
 .text-two{
     color:blue;
     text-align:right;
-    position: relative; left:30px; top: 200px;
+    position: relative; left:30px; top: 190px;
     font-size:20px
 }
 .five-part{
