@@ -93,10 +93,10 @@ section{
 .fourt-part{    
     background-image: url(shapes/Group_33094_1.png);
     background-repeat: no-repeat;
-    background-size:contain;
     margin: 0 auto;
-    background-position:0px 100px;
     width:60%;
+    background-position:0px 100px;
+    background-size:contain;
     
 }
 #text-one{
