@@ -128,6 +128,7 @@ section{
 .pic{
     position: relative; left:625px;
     width:2%;
+    padding-left:15px;
 }
 .last-part{
     text-align:center;
